@@ -1,0 +1,17 @@
+{
+  "name": "@lianxin/node-boilerplate",
+  "description": "Boilerplate of Node Project",
+  "keywords": [
+    "boilerplate",
+    "lx",
+    "node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tjwyz/node-boilerplate"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
